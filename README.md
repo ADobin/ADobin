@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on [Microsoft Power Apps](https://powerapps.microsoft.com/en-us/)
+- 🔭 I’m currently working on [Microsoft Power Apps](https://powerapps.microsoft.com/)
 
 <!--
 **ADobin/ADobin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
