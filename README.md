@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m an engineering manager previously working on [Microsoft Power Apps](https://powerapps.microsoft.com/). Currently working on [App Builder agent](https://support.microsoft.com/en-us/topic/build-apps-with-microsoft-365-copilot-a50c7eb7-ed36-45b5-baa4-b24e70f3b550).
+- 🔭 I’m an engineer previously working on [Microsoft Power Apps](https://powerapps.microsoft.com/) and [App Builder agent](https://support.microsoft.com/en-us/topic/build-apps-with-microsoft-365-copilot-a50c7eb7-ed36-45b5-baa4-b24e70f3b550).
+- 🖥️ I'm into homelabbing and self-hosting, especially interested in infrastructure-as-code
 
 <!--
 **ADobin/ADobin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
